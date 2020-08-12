@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  test
+//  project
 //
 //  Created by James Dai on 8/12/20.
 //  Copyright © 2020 James Dai. All rights reserved.
