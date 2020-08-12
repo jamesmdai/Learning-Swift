@@ -40,7 +40,7 @@
 		5C7A201E24E446990048993A = {
 			isa = PBXGroup;
 			children = (
-				5C7A202924E446990048993A /* test */,
+				5C7A202924E446990048993A /* project */,
 				5C7A202824E446990048993A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5C7A202924E446990048993A /* test */ = {
+		5C7A202924E446990048993A /* project */ = {
 			isa = PBXGroup;
 			children = (
 				5C7A202A24E4469A0048993A /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				5C7A203824E4469C0048993A /* Info.plist */,
 				5C7A203224E4469C0048993A /* Preview Content */,
 			);
-			path = test;
+			path = project;
 			sourceTree = "<group>";
 		};
 		5C7A203224E4469C0048993A /* Preview Content */ = {
